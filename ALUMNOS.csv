@@ -1,20 +1,20 @@
-ID;APELLIDO_NOMBRE;;TELEFONO;Direccion
-1;ARONI JOSE;;957533484;Mz. 1 avenida - Lima - Lima- Lima -Peru
-2;TASAYCO JUAN;;957536972;Mz. 2 avenida - Carabayllo - Lima - Lima-Peru
-3;SALAZAR ASTRID;;992395150;Mz. 1 avenida - Brena - Lima - Lima-Peru
-4;BRAVO JULIO;;983211838;Mz. 3 avenida - Cercado - Lima - Lima-Peru
-5;ALVINO MAYORI;;977561248;Mz. 1 avenida - Miraflores - Lima- Lima -Peru
-6;BARON NEDITH;;942881950;Mz. 1 avenida- San isidro - Lima- Lima -Peru
-7;MONSALVE MARYAN;;927776152;Mz. 1 avenida - San borja - Lima- Lima -Peru
-8;MAMANI LUCIA;;929471083;Mz. 5 avenida - Lima - Lima - Lima-Peru
-9;CAMPOS JUAN;;932066994;Mz. 1 avenida- Surco - Lima - Lima-Peru
-10;HUANCA DORIS;;953444135;Mz. 8 avenida- Lima - Lima - Lima-Peru
-11;MAMANI DIANA;;925093402;Mz. 1 avenida- Los Olivos - Lima - Lima-Peru
-12;MAMANI JESUS;;940018824;Mz. 1avenida - Lima - Lima- Lima -Peru
-13;CHÁVEZ JOAQUÍN;;993359320;Mz. 1avenida - Miraflores - Lima- Lima -Peru
-14;DÍAZ ANA;;980027921;Lt. 9 avenida- San isidro - Lima - Lima-Peru
-15;CHERRE FERNANDO;;935982368;Mz. 1 avenida- San borja - Lima- Lima -Peru
-16;NONATO RAUL;;941496283;Mz. 1 avenida- Lima - Lima- Lima -Peru
-17;APELLIDO NOMBRE;;999999999;Mz. 1 avenida- Carabayllo - Lima- Lima -Peru
-18;APELLIDO1 NOMBRE1;;111111111;Mz. 9 avenida- Distrito - Provincia- Trujillo -Peru
-19;APELLIDO2 NOMBRE2;;222222222;Mz. 9 avenida- Distrito - Provincia- Ancash -Peru
+ID;APELLIDO_NOMBRE;TELEFONO;Direccion
+1;ARONI JOSE;957533484;Mz. 1 avenida - Lima - Lima- Lima -Peru
+2;TASAYCO JUAN;957536972;Mz. 2 avenida - Carabayllo - Lima - Lima-Peru
+3;SALAZAR ASTRID;992395150;Mz. 1 avenida - Brena - Lima - Lima-Peru
+4;BRAVO JULIO;983211838;Mz. 3 avenida - Cercado - Lima - Lima-Peru
+5;ALVINO MAYORI;977561248;Mz. 1 avenida - Miraflores - Lima- Lima -Peru
+6;BARON NEDITH;942881950;Mz. 1 avenida- San isidro - Lima- Lima -Peru
+7;MONSALVE MARYAN;927776152;Mz. 1 avenida - San borja - Lima- Lima -Peru
+8;MAMANI LUCIA;929471083;Mz. 5 avenida - Lima - Lima - Lima-Peru
+9;CAMPOS JUAN;932066994;Mz. 1 avenida- Surco - Lima - Lima-Peru
+10;HUANCA DORIS;953444135;Mz. 8 avenida- Lima - Lima - Lima-Peru
+11;MAMANI DIANA;925093402;Mz. 1 avenida- Los Olivos - Lima - Lima-Peru
+12;MAMANI JESUS;940018824;Mz. 1avenida - Lima - Lima- Lima -Peru
+13;CHÁVEZ JOAQUÍN;993359320;Mz. 1avenida - Miraflores - Lima- Lima -Peru
+14;DÍAZ ANA;980027921;Lt. 9 avenida- San isidro - Lima - Lima-Peru
+15;CHERRE FERNANDO;935982368;Mz. 1 avenida- San borja - Lima- Lima -Peru
+16;NONATO RAUL;941496283;Mz. 1 avenida- Lima - Lima- Lima -Peru
+17;APELLIDO NOMBRE;999999999;Mz. 1 avenida- Carabayllo - Lima- Lima -Peru
+18;APELLIDO1 NOMBRE1;111111111;Mz. 9 avenida- Distrito - Provincia- Trujillo -Peru
+19;APELLIDO2 NOMBRE2;222222222;Mz. 9 avenida- Distrito - Provincia- Ancash -Peru
